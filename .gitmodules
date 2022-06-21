@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FuzzyQ"]
+	path = FuzzyQ
+	url = https://github.com/ligophorus/fuzzyq
+	shallow = true
+	registered = true
