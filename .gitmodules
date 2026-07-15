@@ -5,3 +5,6 @@
 [submodule "FuzzyQ"]
 	path = FuzzyQ
 	url = https://github.com/ligophorus/fuzzyq
+[submodule "paco"]
+	path = paco
+	url = https://github.com/cran/paco
