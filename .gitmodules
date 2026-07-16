@@ -7,4 +7,4 @@
 	url = https://github.com/ligophorus/fuzzyq
 [submodule "paco"]
 	path = paco
-	url = https://github.com/cran/paco
+	url = https://github.com/ligophorus/paco
